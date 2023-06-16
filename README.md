@@ -1,4 +1,4 @@
-# Crawl Openstreetmap data
+# Crawl OpenStreetMap data
 ## About
 This is a project to collect data on existing roads in Vietnam
 - Datasource: OpenStreetMap
